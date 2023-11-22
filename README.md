@@ -1,5 +1,5 @@
 # bash-LM
-A simple scaffold for a GPT-4 chat in a shell that can run bash commands.
+A simple scaffold for a GPT-4 chat in a shell that can run bash commands replicating [this demo](https://www.dropbox.com/scl/fi/a3ellhrgmbn9r8ximrbcd/buck-scaffold-demo.mov?rlkey=4cb2ws4xtlpezlh0q7sxa9gcy&dl=0).
 
 ## Using this code
 
